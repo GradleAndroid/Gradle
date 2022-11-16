@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">menuprogram</string>
+    <string name="search">Search</string>
+    <string name="copy">Copy</string>
+    <string name="print">Print</string>
+    <string name="share">Share</string>
+    <string name="bookmark">Bookmark</string>
+</resources>
